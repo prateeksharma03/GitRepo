@@ -3,7 +3,7 @@
 
 ## API Documentation
 ## API 1 - to generate tiny URL
-	HTTP Method - POST
+	HTTP Method - POST  
 	URI - http://localhost:9090/url
 	Payload - 
 	{
